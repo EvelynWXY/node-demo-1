@@ -1,5 +1,4 @@
-# node-demo-1
-制作的第一个node.js
+#启动应用
 ```
 node server.js 8888
 ```
